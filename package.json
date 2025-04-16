@@ -1,0 +1,13 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "E-commerce is a web application that allows users to buy and sell products and manage their inventory.",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "husky": "^9.1.4"
+  }
+}
